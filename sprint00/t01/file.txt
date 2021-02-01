@@ -1,3 +1,0 @@
-git add file.txt
-git commit -m "add file.txt to git"
-git push 

@@ -1,1 +1,0 @@
-echo "/*man manual text*/"

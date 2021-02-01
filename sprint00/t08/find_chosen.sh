@@ -1,1 +1,0 @@
-grep 'redphill' $1
